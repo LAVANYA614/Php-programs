@@ -1,0 +1,7 @@
+<?php
+#arsort function
+$age = array("Peter"=>"20", "Harry"=>"14", "John"=>"45", "Clark"=>"35");
+arsort($age);
+print_r($age);
+echo "This code is written and excecuted by Lavanya Bhandari with ERP-0231BCA036"
+?>
