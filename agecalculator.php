@@ -33,5 +33,5 @@ echo "Days: " . $days . "<br>";
 echo "Hours: " . $hours . "<br>";
 echo "Minutes: " . $minutes . "<br>";
 echo "Seconds: " . $seconds . "<br>";    
-echo "This code is written and executed by Lavanya Bhandari with erp-0231BCA036"
+echo "This code is written and executed by Lavanya Bhandari with erp-0231BCA036";
 ?>
