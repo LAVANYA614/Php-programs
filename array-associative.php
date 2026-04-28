@@ -16,5 +16,5 @@
     echo "Salary of Roshan is ". $salaries['roshan'] . "<br>";
     echo "Salary of Twinkle is ".  $salaries['twinkle']. "<br>";
     echo "Salary of Qadir is ".  $salaries['qadir']. "<br>";
-echo "This code is written and executed by Lavanya Bhandari with erp 0231BCA036"
+echo "This code is written and executed by Lavanya Bhandari with erp 0231BCA036";
 ?>
